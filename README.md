@@ -7,7 +7,7 @@ The scripting language used in this project is GDScript. For more information, v
 Use the godot engine editor to export the game, or run directly from the godot engine editor.
 
 ### Releases
-I'll have to figure out how to include binaries on github lmao
+Proceed to the Release section to download the binaries (and for more info).
 
 ### LICENSE
 This project is released under the MIT License.
